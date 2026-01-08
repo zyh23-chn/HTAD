@@ -28,3 +28,15 @@ DBLP dataset
 cd src/scripts
 bash run_dblp.sh
 ```
+
+## Citation
+```
+@incollection{zhang2025exploring,
+  title={Exploring Topological Bias in Heterogeneous Graph Neural Networks},
+  author={Zhang, Yihan},
+  booktitle={ECAI 2025},
+  pages={2937--2944},
+  year={2025},
+  publisher={IOS Press}
+}
+```
